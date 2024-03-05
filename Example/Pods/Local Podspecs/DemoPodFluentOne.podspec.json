@@ -1,0 +1,22 @@
+{
+  "name": "DemoPodFluentOne",
+  "version": "0.1.0",
+  "summary": "A short description of DemoPodFluentOne.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Puneet Chippalagatti/DemoPodFluentOne",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Puneet Chippalagatti": "puneetc@microsoft.com"
+  },
+  "source": {
+    "git": "https://github.com/Puneet Chippalagatti/DemoPodFluentOne.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DemoPodFluentOne/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - DemoPodFluentOne (0.1.0)
+
+DEPENDENCIES:
+  - DemoPodFluentOne (from `../`)
+
+EXTERNAL SOURCES:
+  DemoPodFluentOne:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DemoPodFluentOne: 3c556b85fc2320e94f61a5036be19164a48d4de5
+
+PODFILE CHECKSUM: db2cbbd638ab5d9d48cdb20361c765809a1cdbde
+
+COCOAPODS: 1.15.2

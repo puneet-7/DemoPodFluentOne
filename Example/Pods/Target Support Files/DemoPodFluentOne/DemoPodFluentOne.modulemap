@@ -1,0 +1,6 @@
+framework module DemoPodFluentOne {
+  umbrella header "DemoPodFluentOne-umbrella.h"
+
+  export *
+  module * { export * }
+}

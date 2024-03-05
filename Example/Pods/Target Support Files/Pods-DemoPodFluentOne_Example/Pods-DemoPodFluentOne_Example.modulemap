@@ -1,0 +1,6 @@
+framework module Pods_DemoPodFluentOne_Example {
+  umbrella header "Pods-DemoPodFluentOne_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
