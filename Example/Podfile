@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'DemoPodFluentOne_Example' do
+  pod 'DemoPodFluentOne', :path => '../'
+
+  target 'DemoPodFluentOne_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
